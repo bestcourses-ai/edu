@@ -3,6 +3,10 @@
   <img src="https://raw.githubusercontent.com/wandb/wandb/508982e50e82c54cbf0dd464a9959fee0e1740ad/.github/wb-logo-darkbg.png#gh-dark-mode-only" width="600" alt="Weights & Biases"/>
 </p>
 
+
+https://www.wandb.courses/courses/take/training-fine-tuning-LLMs/
+https://www.wandb.courses/courses/take/building-llm-powered-apps/lessons/
+
 # Learn Machine Learning
 
 This repository contains materials for learning to do machine learning,
